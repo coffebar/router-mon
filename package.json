@@ -1,0 +1,17 @@
+{
+  "name": "router-mon",
+  "version": "1.0.0",
+  "description": "show connected to router devices",
+  "author": "Hukuta",
+  "main": "router-devices.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jetty": "^0.2.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
