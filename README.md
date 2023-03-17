@@ -19,4 +19,3 @@ const password = 'YOUR_WEB_PASSWORD';
 ```
 5. Run script: ```node router-devices.js```
 
-Done.
