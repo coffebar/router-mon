@@ -3,7 +3,7 @@ Show online devices on the KeeneticOS. It's a CLI nodejs app.
 
 ![screen](https://raw.githubusercontent.com/coffebar/router-mon/master/screen.png)
 
-Updates every 30 sec. Additionally shows the number of transmitted and received data.
+Updates every 30 sec. Additionally shows the amount of transferred data.
 
 # Setup
 1. Create a new user on your KeeneticOS device. Set permissions only for readonly web access.
